@@ -20,7 +20,7 @@ txt_nos_bricks = ('14716 22886 2356 2357 2453 2453a 2453b 2454 2456 2465 3001 30
     '700eX 702 702old 733 733eX 772 bhol01 bhol02 bhol03 bhol04 bhol05 bhol06 crssprt01 '
     'crssprt02 crssprt03 crssprt04 x1214')
 
-nm_dir_tcc = '/home/73707317072/jup_ws/tcc'    # 'd:/jup_ws/tcc'
+nm_dir_tcc = '/home/nome_usuario/jup_ws/tcc'    # 'd:/jup_ws/tcc'
 p_dir_tcc = Path(nm_dir_tcc)
 p_dir_tcc.mkdir(parents=True, exist_ok=True)
 
